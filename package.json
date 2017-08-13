@@ -1,0 +1,17 @@
+{
+  "name": "boboscript",
+  "version": "1.0.0",
+  "description": "bobo script by jeff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "latest",
+    "express": "latest",
+    "node-fetch": "^1.7.2",
+    "request": "latest"
+  }
+}
